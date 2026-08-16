@@ -203,7 +203,7 @@
       }
     },
     {
-      "scope": ["entity.name.namespace.rust"],
+      "scope": ["entity.name.namespace.rust", "entity.name.module.rust"],
       "settings": {
         "foreground": "#E0A287"
       }
