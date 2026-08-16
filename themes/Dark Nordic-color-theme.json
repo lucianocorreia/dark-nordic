@@ -185,6 +185,12 @@
       }
     },
     {
+      "scope": ["meta.use.rust", "source.rust"],
+      "settings": {
+        "foreground": "#E0A287"
+      }
+    },
+    {
       "scope": ["entity.name.function.macro.rust"],
       "settings": {
         "foreground": "#B48EAD"
