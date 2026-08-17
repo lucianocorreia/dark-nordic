@@ -2,7 +2,7 @@
   "name": "dark-nordic",
   "displayName": "Dark Nordic",
   "description": "A dark Nordic color theme for Visual Studio Code.",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "publisher": "correiadark",
   "license": "MIT",
   "icon": "icon.png",
@@ -28,6 +28,11 @@
         "label": "Dark Nordic",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Nordic-color-theme.json"
+      },
+      {
+        "label": "Dark Nordic Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Nordic Hard-color-theme.json"
       }
     ]
   }

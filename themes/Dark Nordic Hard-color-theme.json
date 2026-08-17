@@ -1,0 +1,11 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dark Nordic Hard",
+  "type": "dark",
+  "include": "./Dark Nordic-color-theme.json",
+  "colors": {
+    "editor.background": "#181D25",
+    "editorGutter.background": "#181D25",
+    "editorInlayHint.foreground": "#60728AE6"
+  }
+}

@@ -30,7 +30,7 @@
     "editor.inactiveSelectionBackground": "#333B4B",
     "editor.wordHighlightBackground": "#58667F50",
     "editor.wordHighlightStrongBackground": "#58667FF0",
-    "editor.findMatchBackground": "#EBCB8B66",
+    "editor.findMatchBackground": "#D08770B3",
     "editor.findMatchHighlightBackground": "#EBCB8B66",
     "editorBracketHighlight.foreground1": "#D08770",
     "editorBracketHighlight.foreground2": "#A3BE8C",
@@ -51,7 +51,7 @@
     "editorGutter.modifiedBackground": "#E2C08D",
     "editorGutter.deletedBackground": "#E77B84",
     "editorLineNumber.foreground": "#60728A",
-    "editorLineNumber.activeForeground": "#ECEFF4",
+    "editorLineNumber.activeForeground": "#D08770",
     "editorIndentGuide.background1": "#404040",
     "editorIndentGuide.activeBackground1": "#707070",
     "editorRuler.foreground": "#3C4454",
@@ -151,6 +151,13 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#8C8C8CF0",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment.line.documentation.rust"],
+      "settings": {
+        "foreground": "#9AA7B8B3",
         "fontStyle": "italic"
       }
     },
