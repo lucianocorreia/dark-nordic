@@ -6,6 +6,19 @@
   "colors": {
     "editor.background": "#181D25",
     "editorGutter.background": "#181D25",
-    "editorInlayHint.foreground": "#60728AE6"
-  }
+    "editorInlayHint.foreground": "#60728AE6",
+    "editorIndentGuide.background1": "#252B35",
+    "editorIndentGuide.activeBackground1": "#303846"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "support.type.property-name.json.comments",
+        "support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#81A1C1"
+      }
+    }
+  ]
 }
