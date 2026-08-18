@@ -183,9 +183,16 @@
       }
     },
     {
-      "scope": ["constant", "constant.numeric", "constant.language"],
+      "scope": [
+        "constant",
+        "constant.numeric",
+        "constant.language",
+        "support.constant",
+        "support.constant.core.php",
+        "support.constant.php"
+      ],
       "settings": {
-        "foreground": "#EBCB8B"
+        "foreground": "#B48EAD"
       }
     },
     {
@@ -234,6 +241,12 @@
       "scope": ["support.class.php"],
       "settings": {
         "foreground": "#EBCB8B"
+      }
+    },
+    {
+      "scope": ["support.other.namespace.php", "entity.other.inherited-class.php"],
+      "settings": {
+        "foreground": "#81A1C1"
       }
     },
     {
