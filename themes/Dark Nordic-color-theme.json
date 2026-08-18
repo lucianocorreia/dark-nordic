@@ -189,6 +189,12 @@
       }
     },
     {
+      "scope": ["text.html.vue", "text.html.derivative", "text.vue"],
+      "settings": {
+        "foreground": "#ECEFF4"
+      }
+    },
+    {
       "scope": ["entity.name.function", "support.function", "meta.function-call"],
       "settings": {
         "foreground": "#88C0D0"
@@ -260,9 +266,45 @@
       }
     },
     {
-      "scope": ["entity.name.tag", "meta.tag"],
+      "scope": [
+        "entity.name.tag",
+        "meta.tag",
+        "entity.name.tag.html",
+        "entity.name.tag.html.vue",
+        "entity.name.tag.vue",
+        "entity.name.tag.blade",
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx",
+        "meta.tag.structure",
+        "meta.tag.inline",
+        "meta.tag.block",
+        "entity.name.type.class.vue",
+        "entity.name.type.class.jsx",
+        "entity.name.type.class.tsx"
+      ],
       "settings": {
         "foreground": "#88C0D0"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.xml",
+        "entity.other.attribute-name.vue",
+        "entity.other.attribute-name.blade",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx",
+        "meta.attribute",
+        "meta.attribute.html",
+        "meta.attribute.xml",
+        "meta.attribute.vue",
+        "meta.attribute.blade",
+        "meta.attribute.jsx",
+        "meta.attribute.tsx"
+      ],
+      "settings": {
+        "foreground": "#EBCB8B"
       }
     },
     {
@@ -290,6 +332,7 @@
   ],
   "semanticTokenColors": {
     "class": "#EBCB8B",
+    "component": "#88C0D0",
     "interface": "#EBCB8B",
     "struct": "#EBCB8B",
     "enum": "#EBCB8B",
