@@ -45,7 +45,7 @@
     "editorInfo.foreground": "#75BEFF",
     "editorHint.foreground": "#969696",
     "editorInlayHint.background": "#00000000",
-    "editorInlayHint.foreground": "#60728Ab3",
+    "editorInlayHint.foreground": "#60728A80",
     "editorGutter.background": "#242933",
     "editorGutter.addedBackground": "#74C991",
     "editorGutter.modifiedBackground": "#C5AA7D",
@@ -216,7 +216,7 @@
     {
       "scope": ["entity.name.function.macro.rust"],
       "settings": {
-        "foreground": "#B48EAD"
+        "foreground": "#D29B7B"
       }
     },
     {

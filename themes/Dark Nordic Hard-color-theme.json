@@ -17,7 +17,7 @@
     "editorWarning.foreground": "#C8AD7A",
     "editorGutter.background": "#181D25",
     "editorGutter.modifiedBackground": "#E2C08D",
-    "editorInlayHint.foreground": "#60728AE6",
+    "editorInlayHint.foreground": "#60728A66",
     "editorLineNumber.activeForeground": "#C08070",
     "editorIndentGuide.background1": "#252B35",
     "editorIndentGuide.activeBackground1": "#303846",
@@ -46,6 +46,12 @@
       "scope": ["meta.use.rust", "source.rust"],
       "settings": {
         "foreground": "#A394A0"
+      }
+    },
+    {
+      "scope": ["entity.name.function.macro.rust"],
+      "settings": {
+        "foreground": "#D29B7B"
       }
     },
     {
