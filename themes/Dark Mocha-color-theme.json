@@ -687,7 +687,6 @@
     },
     "text.strong": {
       "foreground": "#f38ba8",
-      "fontStyle": "bold"
     },
     "text.math": {
       "foreground": "#f2cdcd"
@@ -749,6 +748,7 @@
         "constant.numeric",
         "variable.other.constant",
         "entity.name.constant",
+          "constant.other.php",
         "constant.language.boolean",
         "constant.language.false",
         "constant.language.true",
@@ -923,6 +923,13 @@
       "scope": "entity.name.namespace",
       "settings": {
         "foreground": "#f9e2af"
+      }
+    },
+    {
+      "name": "Rust namespaces",
+      "scope": "source.rust entity.name.namespace",
+      "settings": {
+        "foreground": "#A6ADC8"
       }
     },
     {
@@ -2028,6 +2035,13 @@
       "scope": "constant.language.php",
       "settings": {
           "foreground": "#fab387"
+      }
+    },
+    {
+        "name": "PHP storage types",
+        "scope": "storage.type.php",
+      "settings": {
+        "foreground": "#F9E2AF"
       }
     },
     {
