@@ -352,6 +352,7 @@
     "function": "#81A1C1",
     "variable": "#C0C8D8",
     "parameter": "#C0C8D8",
-    "property": "#81A1C1"
+    "property": "#81A1C1",
+    "property:csharp": "#ECEFF4"
   }
 }

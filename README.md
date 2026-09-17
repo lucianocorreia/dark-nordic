@@ -1,6 +1,6 @@
 # Dark Nordic
 
-Dark Nordic is a dark-only Visual Studio Code theme inspired by the Nordic palette.
+Dark Nordic is a dark-only Visual Studio Code theme collection with Nordic and Mocha variants.
 
 ## Palette
 
@@ -19,7 +19,7 @@ Dark Nordic is a dark-only Visual Studio Code theme inspired by the Nordic palet
 
 ## Use
 
-Install the extension, then choose **Dark Nordic** from the Color Theme picker in Visual Studio Code.
+Install the extension, then choose **Dark Nordic**, **Dark Nordic Hard**, or **Dark Mocha** from the Color Theme picker in Visual Studio Code.
 
 ## License
 
