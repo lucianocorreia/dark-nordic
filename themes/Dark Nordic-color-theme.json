@@ -149,14 +149,14 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#71877A",
+        "foreground": "#8B7B6F",
         "fontStyle": "italic"
       }
     },
     {
       "scope": ["comment.line.documentation.rust"],
       "settings": {
-        "foreground": "#819A88",
+        "foreground": "#9B897B",
         "fontStyle": "italic"
       }
     },
