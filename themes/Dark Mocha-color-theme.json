@@ -119,7 +119,7 @@
     "diffEditor.diagonalFill": "#585b7099",
     "diffEditorOverview.insertedForeground": "#a6e3a1cc",
     "diffEditorOverview.removedForeground": "#f38ba8cc",
-    "editor.background": "#1e1e2e",
+    "editor.background": "#24273A",
     "editor.findMatchBackground": "#5e3f53",
     "editor.findMatchBorder": "#f38ba833",
     "editor.findMatchHighlightBackground": "#3e5767",
@@ -141,14 +141,14 @@
     "editorBracketMatch.background": "#9399b21a",
     "editorBracketMatch.border": "#9399b2",
     "editorCodeLens.foreground": "#7f849c",
-    "editorCursor.background": "#1e1e2e",
+    "editorCursor.background": "#24273A",
     "editorCursor.foreground": "#f5e0dc",
     "editorGroup.border": "#585b70",
     "editorGroup.dropBackground": "#74c7ec33",
-    "editorGroup.emptyBackground": "#1e1e2e",
+    "editorGroup.emptyBackground": "#24273A",
     "editorGroupHeader.tabsBackground": "#11111b",
     "editorGutter.addedBackground": "#a6e3a1",
-    "editorGutter.background": "#1e1e2e",
+    "editorGutter.background": "#24273A",
     "editorGutter.commentRangeForeground": "#313244",
     "editorGutter.commentGlyphForeground": "#74c7ec",
     "editorGutter.deletedBackground": "#f38ba8",
@@ -686,7 +686,7 @@
       "fontStyle": "italic"
     },
     "text.strong": {
-      "foreground": "#f38ba8",
+      "foreground": "#f38ba8"
     },
     "text.math": {
       "foreground": "#f2cdcd"
