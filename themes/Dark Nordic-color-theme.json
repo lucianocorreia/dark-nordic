@@ -237,6 +237,12 @@
       }
     },
     {
+      "scope": ["meta.function.call.rust entity.name.namespace.rust"],
+      "settings": {
+        "foreground": "#CBB27E"
+      }
+    },
+    {
       "scope": ["support.class.php"],
       "settings": {
         "foreground": "#CBB27E"
