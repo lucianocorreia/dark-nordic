@@ -178,7 +178,7 @@
     {
       "scope": ["keyword.language.region.gdscript"],
       "settings": {
-        "foreground": "#C0C8D8"
+        "foreground": "#969696"
       }
     },
     {
