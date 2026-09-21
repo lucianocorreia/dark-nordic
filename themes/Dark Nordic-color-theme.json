@@ -95,7 +95,7 @@
     "scrollbarSlider.background": "#353D4C",
     "scrollbarSlider.hoverBackground": "#646464B3",
     "scrollbarSlider.activeBackground": "#646464B3",
-    "sideBar.background": "#181D25",
+    "sideBar.background": "#151A21",
     "sideBar.foreground": "#ECEFF4",
     "sideBar.border": "#3C4454",
     "sideBarSectionHeader.background": "#1D232D",
@@ -114,11 +114,11 @@
     "tab.border": "#1E232D",
     "tab.inactiveBackground": "#1E232D",
     "tab.hoverBackground": "#2D3341",
-    "terminal.background": "#171C24",
+    "terminal.background": "#141920",
     "terminal.foreground": "#ECEFF4",
     "terminal.border": "#3C4454",
     "terminal.selectionBackground": "#58667F50",
-    "terminalCursor.background": "#171C24",
+    "terminalCursor.background": "#141920",
     "terminalCursor.foreground": "#ECEFF4",
     "terminal.ansiBlack": "#2E3440",
     "terminal.ansiRed": "#F48771",
@@ -173,6 +173,12 @@
       "scope": ["keyword", "storage", "keyword.control"],
       "settings": {
         "foreground": "#AD7A68"
+      }
+    },
+    {
+      "scope": ["keyword.language.region.gdscript"],
+      "settings": {
+        "foreground": "#C0C8D8"
       }
     },
     {
