@@ -268,6 +268,15 @@
     },
     {
       "scope": [
+        "entity.name.variable.field.cs",
+        "variable.other.object.property.cs"
+      ],
+      "settings": {
+        "foreground": "#C0C8D8"
+      }
+    },
+    {
+      "scope": [
         "variable.language.this",
         "variable.language.this.php",
         "variable.language.self"
@@ -365,6 +374,7 @@
     "variable": "#C0C8D8",
     "parameter": "#C0C8D8",
     "property": "#81A1C1",
-    "property:csharp": "#ECEFF4"
+    "field:csharp": "#C0C8D8",
+    "property:csharp": "#C0C8D8"
   }
 }

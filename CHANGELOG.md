@@ -7,6 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Add the Dark Mocha variant with terracotta accents in place of pink.
+- Use the variable color consistently for C# fields and properties, including static members, in Dark Nordic and Dark Nordic Hard.
 
 ## [0.0.1] - 2026-08-15
 
